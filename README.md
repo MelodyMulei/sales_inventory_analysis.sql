@@ -49,9 +49,6 @@ This project demonstrates both basic and advanced SQL concepts:
 - How to translate data into business insights
 ---
 
-
----
-
 ## How to Use This Project
 1. Clone the repository
 2. Open SQL file in PostgreSQL / DBeaver
